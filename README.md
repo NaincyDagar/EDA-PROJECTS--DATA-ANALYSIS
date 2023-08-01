@@ -16,9 +16,9 @@ Description:
 Technologies: Python, NumPy, Pandas, Seaborn, Matplotlib
 
 BL Flickr Books-
-Description: [A brief description of the project and its objectives.]
+Description:
 Technologies: Python, NumPy, Pandas, Seaborn, Matplotlib
 
 911 Calls-
-Description: [A brief description of the project and its objectives.]
+Description:
 Technologies: Python, NumPy, Pandas, Seaborn, Matplotlib
